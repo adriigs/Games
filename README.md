@@ -10,3 +10,10 @@
 ## Tráilers
 - [The Legend of Zelda: Tears of the Kingdom](https://youtube.com/link-al-trailer-zelda)
 - [Elden Ring](https://youtube.com/link-al-trailer-eldenring)
+
+DIMENSIONES TROFEO:
+Ancho (px)	Altura (px)
+150	189
+100	126
+75	94
+50	63
