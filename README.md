@@ -11,5 +11,4 @@
 - [The Legend of Zelda: Tears of the Kingdom](https://youtube.com/link-al-trailer-zelda)
 - [Elden Ring](https://youtube.com/link-al-trailer-eldenring)
 
-
-![Trofeo_Platino](https://github.com/user-attachments/assets/ef0e0ba5-ae9b-4272-b463-2420de5e3765)
+<img src="https://github.com/user-attachments/assets/ef0e0ba5-ae9b-4272-b463-2420de5e3765" width="50" height="50">
